@@ -4,7 +4,7 @@ body{
 }
 
 .background{
-    background-image: url(imagens/Screenshot_5.jpg);
+    background-image: url(imagens/Screenshot_CERTO.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -118,7 +118,7 @@ body{
   .text  {
     font-size: 20px;
   }
-  h3 {
+  h2 {
     font-family: 'Ubuntu', sans-serif;
     font-size: 40px;
     max-width: 400px;
@@ -205,7 +205,7 @@ body{
                 background: linear-gradient(to right, #f34feb, #9858ff)}
 
 
-                h4 {
+                h3 {
                   font-family: 'Ubuntu', sans-serif;
                   font-size: 40px;
                   max-width: 400px;
@@ -230,7 +230,7 @@ body{
                   border-radius: 13px;
                   padding: 15px;
                   position: relative;
-                  background: #9858ff}
+                  background: #7441c7}
   
 
 
@@ -349,8 +349,6 @@ body{
     flex-direction: flex-end;
     align-items: center;
     justify-content: center;
-
-    text-align: justify;
   }
 
   header h1 {
